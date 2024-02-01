@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+  overflow: hidden;
+}
+.full{
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vw;
+  background-color: aquamarine;
+}
+
+.back{
+  background-color: blanchedalmond;
+}
+h1{
+  font-size: 4rem;
+}
